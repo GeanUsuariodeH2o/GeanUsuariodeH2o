@@ -1,7 +1,7 @@
 ## seja bem vindo ao clube dos usuairios de H2o 🚰
 
 
-** Gean Lucas **
+**Gean Lucas**
 ### Um pouco sobre mim:
 - Eu estudo atualmente no ensino médio;
 - Estou buscando me desenvolver na área da tecnologia;
